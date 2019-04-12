@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554947249 source:c:\users\sanje\desktop\library with c++\library with seg\1\phonebook\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
